@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cemova Introduction</title>
+  <meta name="robots" content="noindex">
+  <style>
+    html, body { margin: 0; height: 100%; background: #000; overflow: hidden; }
+    iframe { display: block; width: 100%; height: 100vh; border: 0; }
+  </style>
+</head>
+<body>
+  <iframe src="https://cleantechforward-my.sharepoint.com/personal/lukas_cemova_eu/_layouts/15/embed.aspx?UniqueId=7e5663cc-1d25-4770-bb4f-baa7fc872ef9&embed=%7B%22af%22%3Atrue%2C%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create"
+          scrolling="no" allowfullscreen title="Cemova Introduction"></iframe>
+</body>
+</html>
