@@ -6,11 +6,17 @@
   <title>Cemova Introduction</title>
   <meta name="robots" content="noindex">
   <style>
-    html, body { margin: 0; height: 100%; background: #000; overflow: hidden; }
-    iframe { display: block; width: 100%; height: 100vh; border: 0; }
+    html, body { margin: 0; height: 100%; background: #000; }
+    body { display: flex; align-items: center; justify-content: center; }
+    video { width: 100%; max-height: 100vh; }
   </style>
 </head>
 <body>
-  <iframe src="https://cleantechforward-my.sharepoint.com/personal/lukas_cemova_eu/_layouts/15/embed.aspx?UniqueId=7e5663cc-1d25-4770-bb4f-baa7fc872ef9&embed=%7B%22af%22%3Atrue%2C%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen title="Cemova-Introduction.mp4"></iframe>
+  <video controls playsinline preload="metadata"
+         controlsList="nodownload" disablePictureInPicture
+         oncontextmenu="return false;">
+    <source src="Cemova-Introduction.mp4" type="video/mp4">
+    Your browser can't play this video.
+  </video>
 </body>
 </html>
